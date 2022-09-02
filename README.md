@@ -1,1 +1,1 @@
-This is a readme
+Writing my first script using shebang
